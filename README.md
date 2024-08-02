@@ -1,3 +1,9 @@
+# MarsioKart
+This project was conceptualised and created in four days on the TechSwitch programme, by a team of eight developers.
+To learn more about the project brief, ideation, wireframe designs and MVP design, visit the presentation slide deck: https://docs.google.com/presentation/d/1Kjarys4U2HKiYdfJlF43ybzeCPij1P-F-PDN-zOiIC8/edit#slide=id.p
+
+The site can be viewed at https://marsio.netlify.app/
+
 # Set Up
 
 run `npm install`
